@@ -2,6 +2,12 @@
 
 ## k_armbandit.py
 k本腕バンディット問題を各方策で解くコード
+方策の種類
+- Greedy
+- E_Greedy
+- E_Greedy_Decay
+- PS
+- RS
 
 ## cliffwark
 崖歩きというタスクを、OpenAI Gymを用いて、解くコード。
